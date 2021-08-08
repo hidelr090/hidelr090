@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 Atualmente trabalho com desenvolvimento Web.
-- 🌱 Estudando React JS, React Native e Node JS. 
-- 📫 Contate-me atraves dos enderecos de e-mail: hidelgardo.dev@gmail.com / hidelgardo503@gmail.com 
+- 🌱 Estou me aperfeiçoando em React JS, React Native e Node JS. 
+- 📫 Contate-me através dos endereços de e-mail: hidelgardo.dev@gmail.com / hidelgardo503@gmail.com 
 
  <div>
   <a href="https://github.com/hidelr090">

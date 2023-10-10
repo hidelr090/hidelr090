@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Atualmente trabalho com desenvolvimento Web.
-- 🌱 Estou me aperfeiçoando em React JS, React Native e Node JS. 
+- 🔭 Atualmente trabalho com desenvolvimento Backend
+- 🌱 Estou me aperfeiçoando em Node com Typescript, mas já tive a oportunidade de trabalhar com tecnologias como React e Angular. 
 - 📫 Contate-me através dos endereços de e-mail: hidelgardo.dev@gmail.com / hidelgardo503@gmail.com 
 
  <div>

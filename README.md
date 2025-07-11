@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com desenvolvimento Backend
 - 🌱 Estou me aperfeiçoando em Node com Typescript, mas já tive a oportunidade de trabalhar com tecnologias como React e Angular. 
-- 📫 Contate-me através dos endereços de e-mail: hidelgardo.dev@gmail.com / hidelgardo503@gmail.com 
+- 📫 Contate-me através do endereço de e-mail: hidelgardo503@gmail.com 
 
  <div>
   <a href="https://github.com/hidelr090">
